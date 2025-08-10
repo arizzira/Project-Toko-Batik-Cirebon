@@ -4,7 +4,6 @@ A comprehensive **console-based batik store management system** built with C++, 
 
 [![C++](https://img.shields.io/badge/C%2B%2B-17%2B-blue.svg)](https://isocpp.org/)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)](https://github.com/arizzira/Project-Toko-Batik-Cirebon)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)](https://github.com/arizzira/Project-Toko-Batik-Cirebon)
 
 ## 🎯 Project Overview
