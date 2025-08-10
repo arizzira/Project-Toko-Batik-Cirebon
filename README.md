@@ -305,10 +305,9 @@ no license
 ## 🆘 Support & Community
 
 ### Getting Help
-- **📚 Documentation**: Check our comprehensive [Wiki](https://github.com/arizzira/Project-Toko-Batik-Cirebon/wiki)
 - **💬 Discussions**: Join conversations in [GitHub Discussions](https://github.com/arizzira/Project-Toko-Batik-Cirebon/discussions)
 - **🐛 Issues**: Report bugs via [GitHub Issues](https://github.com/arizzira/Project-Toko-Batik-Cirebon/issues)
-- **📧 Contact**: Direct support at [arizzira.dev@gmail.com](mailto:arizzira.dev@gmail.com)
+- **📧 Contact**: Direct support at [arizgg6@gmail.com](mailto:arizgg6@gmail.com)
 
 ### Community Guidelines
 - Be respectful and inclusive
@@ -327,9 +326,8 @@ no license
 **Arizzira** - *Lead Developer & Project Maintainer*
 
 - 🌐 **GitHub**: [@arizzira](https://github.com/arizzira)
-- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/arizzira)
-- 📧 **Email**: [arizzira.dev@gmail.com](mailto:arizzira.dev@gmail.com)
-- 🐦 **Twitter**: [@arizzira_dev](https://twitter.com/arizzira_dev)
+- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/muhammad_ariz)
+- 📧 **Email**: [arizgg6@gmail.com](mailto:arizgg6@gmail.com)
 
 ### Specializations
 - **Data Structures & Algorithms** in C++
