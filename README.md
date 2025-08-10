@@ -323,19 +323,6 @@ no license
 ![GitHub forks](https://img.shields.io/github/forks/arizzira/Project-Toko-Batik-Cirebon?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/arizzira/Project-Toko-Batik-Cirebon?style=social)
 
-### Development Metrics
-- **Lines of Code**: ~2,500
-- **Functions**: 45+
-- **Classes**: 12
-- **Test Coverage**: 85%
-- **Documentation**: 95% complete
-
-## 🏆 Awards & Recognition
-
-- 🥇 **Best Educational C++ Project** - DevCommunity Awards 2024
-- 🌟 **Cultural Heritage Technology** - Indonesian Developer Conference
-- 📚 **Top Learning Resource** - C++ Programming Community
-
 ## 👨‍💻 Author & Maintainer
 
 **Arizzira** - *Lead Developer & Project Maintainer*
